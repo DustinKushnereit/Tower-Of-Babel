@@ -1,0 +1,128 @@
+fileFormatVersion: 2
+guid: aa0062bb538d1c14fa6b7fc6b7b28058
+timeCreated: 1462455180
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Leon
+    100002: //RootNode
+    100004: Leon_Head
+    100006: Leon_HeadTop_End
+    100008: Leon_Hips
+    100010: Leon_LeftArm
+    100012: Leon_LeftFoot
+    100014: Leon_LeftForeArm
+    100016: Leon_LeftHand
+    100018: Leon_LeftLeg
+    100020: Leon_LeftShoulder
+    100022: Leon_LeftToe_End
+    100024: Leon_LeftToeBase
+    100026: Leon_LeftUpLeg
+    100028: Leon_Neck
+    100030: Leon_RightArm
+    100032: Leon_RightFoot
+    100034: Leon_RightForeArm
+    100036: Leon_RightHand
+    100038: Leon_RightLeg
+    100040: Leon_RightShoulder
+    100042: Leon_RightToe_End
+    100044: Leon_RightToeBase
+    100046: Leon_RightUpLeg
+    100048: Leon_Spine
+    100050: Leon_Spine1
+    100052: Leon_Spine2
+    400000: //RootNode
+    400002: Leon
+    400004: Leon_Head
+    400006: Leon_HeadTop_End
+    400008: Leon_Hips
+    400010: Leon_LeftArm
+    400012: Leon_LeftFoot
+    400014: Leon_LeftForeArm
+    400016: Leon_LeftHand
+    400018: Leon_LeftLeg
+    400020: Leon_LeftShoulder
+    400022: Leon_LeftToe_End
+    400024: Leon_LeftToeBase
+    400026: Leon_LeftUpLeg
+    400028: Leon_Neck
+    400030: Leon_RightArm
+    400032: Leon_RightFoot
+    400034: Leon_RightForeArm
+    400036: Leon_RightHand
+    400038: Leon_RightLeg
+    400040: Leon_RightShoulder
+    400042: Leon_RightToe_End
+    400044: Leon_RightToeBase
+    400046: Leon_RightUpLeg
+    400048: Leon_Spine
+    400050: Leon_Spine1
+    400052: Leon_Spine2
+    4300000: Leon
+    9500000: //RootNode
+    13700000: Leon
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

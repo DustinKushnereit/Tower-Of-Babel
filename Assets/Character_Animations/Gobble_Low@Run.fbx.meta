@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: b8fe1ceaece1c7f4ebd67472f896385b
+timeCreated: 1462455178
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Gobble_Low_Head
+    100004: Gobble_Low_HeadTop_End
+    100006: Gobble_Low_Hips
+    100008: Gobble_Low_LeftArm
+    100010: Gobble_Low_LeftFoot
+    100012: Gobble_Low_LeftForeArm
+    100014: Gobble_Low_LeftHand
+    100016: Gobble_Low_LeftLeg
+    100018: Gobble_Low_LeftShoulder
+    100020: Gobble_Low_LeftToe_End
+    100022: Gobble_Low_LeftToeBase
+    100024: Gobble_Low_LeftUpLeg
+    100026: Gobble_Low_Neck
+    100028: Gobble_Low_RightArm
+    100030: Gobble_Low_RightFoot
+    100032: Gobble_Low_RightForeArm
+    100034: Gobble_Low_RightHand
+    100036: Gobble_Low_RightLeg
+    100038: Gobble_Low_RightShoulder
+    100040: Gobble_Low_RightToe_End
+    100042: Gobble_Low_RightToeBase
+    100044: Gobble_Low_RightUpLeg
+    100046: Gobble_Low_Spine
+    100048: Gobble_Low_Spine1
+    100050: Gobble_Low_Spine2
+    400000: //RootNode
+    400002: Gobble_Low_Head
+    400004: Gobble_Low_HeadTop_End
+    400006: Gobble_Low_Hips
+    400008: Gobble_Low_LeftArm
+    400010: Gobble_Low_LeftFoot
+    400012: Gobble_Low_LeftForeArm
+    400014: Gobble_Low_LeftHand
+    400016: Gobble_Low_LeftLeg
+    400018: Gobble_Low_LeftShoulder
+    400020: Gobble_Low_LeftToe_End
+    400022: Gobble_Low_LeftToeBase
+    400024: Gobble_Low_LeftUpLeg
+    400026: Gobble_Low_Neck
+    400028: Gobble_Low_RightArm
+    400030: Gobble_Low_RightFoot
+    400032: Gobble_Low_RightForeArm
+    400034: Gobble_Low_RightHand
+    400036: Gobble_Low_RightLeg
+    400038: Gobble_Low_RightShoulder
+    400040: Gobble_Low_RightToe_End
+    400042: Gobble_Low_RightToeBase
+    400044: Gobble_Low_RightUpLeg
+    400046: Gobble_Low_Spine
+    400048: Gobble_Low_Spine1
+    400050: Gobble_Low_Spine2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

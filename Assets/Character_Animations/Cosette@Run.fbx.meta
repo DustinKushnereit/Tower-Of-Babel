@@ -1,0 +1,205 @@
+fileFormatVersion: 2
+guid: 8408fa397849857479b131dc9a74df8a
+timeCreated: 1462455178
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cosette_Head
+    100004: Cosette_HeadTop_End
+    100006: Cosette_Hips
+    100008: Cosette_LeftArm
+    100010: Cosette_LeftFoot
+    100012: Cosette_LeftForeArm
+    100014: Cosette_LeftHand
+    100016: Cosette_LeftLeg
+    100018: Cosette_LeftShoulder
+    100020: Cosette_LeftToe_End
+    100022: Cosette_LeftToeBase
+    100024: Cosette_LeftUpLeg
+    100026: Cosette_Neck
+    100028: Cosette_RightArm
+    100030: Cosette_RightFoot
+    100032: Cosette_RightForeArm
+    100034: Cosette_RightHand
+    100036: Cosette_RightLeg
+    100038: Cosette_RightShoulder
+    100040: Cosette_RightToe_End
+    100042: Cosette_RightToeBase
+    100044: Cosette_RightUpLeg
+    100046: Cosette_Spine
+    100048: Cosette_Spine1
+    100050: Cosette_Spine2
+    400000: //RootNode
+    400002: Cosette_Head
+    400004: Cosette_HeadTop_End
+    400006: Cosette_Hips
+    400008: Cosette_LeftArm
+    400010: Cosette_LeftFoot
+    400012: Cosette_LeftForeArm
+    400014: Cosette_LeftHand
+    400016: Cosette_LeftLeg
+    400018: Cosette_LeftShoulder
+    400020: Cosette_LeftToe_End
+    400022: Cosette_LeftToeBase
+    400024: Cosette_LeftUpLeg
+    400026: Cosette_Neck
+    400028: Cosette_RightArm
+    400030: Cosette_RightFoot
+    400032: Cosette_RightForeArm
+    400034: Cosette_RightHand
+    400036: Cosette_RightLeg
+    400038: Cosette_RightShoulder
+    400040: Cosette_RightToe_End
+    400042: Cosette_RightToeBase
+    400044: Cosette_RightUpLeg
+    400046: Cosette_Spine
+    400048: Cosette_Spine1
+    400050: Cosette_Spine2
+    7400000: Run
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Cosette_Hips
+        weight: 1
+      - path: Cosette_Hips/Cosette_LeftUpLeg
+        weight: 1
+      - path: Cosette_Hips/Cosette_LeftUpLeg/Cosette_LeftLeg
+        weight: 1
+      - path: Cosette_Hips/Cosette_LeftUpLeg/Cosette_LeftLeg/Cosette_LeftFoot
+        weight: 1
+      - path: Cosette_Hips/Cosette_LeftUpLeg/Cosette_LeftLeg/Cosette_LeftFoot/Cosette_LeftToeBase
+        weight: 1
+      - path: Cosette_Hips/Cosette_LeftUpLeg/Cosette_LeftLeg/Cosette_LeftFoot/Cosette_LeftToeBase/Cosette_LeftToe_End
+        weight: 1
+      - path: Cosette_Hips/Cosette_RightUpLeg
+        weight: 1
+      - path: Cosette_Hips/Cosette_RightUpLeg/Cosette_RightLeg
+        weight: 1
+      - path: Cosette_Hips/Cosette_RightUpLeg/Cosette_RightLeg/Cosette_RightFoot
+        weight: 1
+      - path: Cosette_Hips/Cosette_RightUpLeg/Cosette_RightLeg/Cosette_RightFoot/Cosette_RightToeBase
+        weight: 1
+      - path: Cosette_Hips/Cosette_RightUpLeg/Cosette_RightLeg/Cosette_RightFoot/Cosette_RightToeBase/Cosette_RightToe_End
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_LeftShoulder
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_LeftShoulder/Cosette_LeftArm
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_LeftShoulder/Cosette_LeftArm/Cosette_LeftForeArm
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_LeftShoulder/Cosette_LeftArm/Cosette_LeftForeArm/Cosette_LeftHand
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_Neck
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_Neck/Cosette_Head
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_Neck/Cosette_Head/Cosette_HeadTop_End
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_RightShoulder
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_RightShoulder/Cosette_RightArm
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_RightShoulder/Cosette_RightArm/Cosette_RightForeArm
+        weight: 1
+      - path: Cosette_Hips/Cosette_Spine/Cosette_Spine1/Cosette_Spine2/Cosette_RightShoulder/Cosette_RightArm/Cosette_RightForeArm/Cosette_RightHand
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0.9
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
